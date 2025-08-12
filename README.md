@@ -1,6 +1,8 @@
 FC Barcelona 2025–26
 SquadJadwal & HasilKlasemen
+
 No	Posisi	Nama Pemain
+
 1	GK	Jerman Marc-André ter Stegen
 2	DF	Spanyol Pau Cubarsí
 3	DF	Spanyol Alejandro Balde
