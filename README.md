@@ -1,39 +1,9 @@
-FC Barcelona 2025–26
-SquadJadwal & HasilKlasemen
+Novel adalah karya sastra berbentuk prosa yang berisi kisah atau cerita rekaan, biasanya panjang dan kompleks, yang mengisahkan kehidupan manusia dan lingkungannya. Novel berbeda dengan cerpen karena memiliki alur cerita yang lebih panjang dan kompleks. 
 
-No	Posisi	Nama Pemain
 
-1	GK	Jerman Marc-André ter Stegen
-2	DF	Spanyol Pau Cubarsí
-3	DF	Spanyol Alejandro Balde
-4	DF	Uruguay Ronald Araújo
-6	MF	Spanyol Gavi
-7	FW	Spanyol Ferran Torres
-8	MF	Spanyol Pedri
-9	FW	Polandia Robert Lewandowski
-10	FW	Spanyol Lamine Yamal
-11	FW	Brasil Raphinha
-13	GK	Spanyol Iñaki Peña
-14	FW	Inggris Marcus Rashford
-No	Posisi	Nama Pemain
-15	DF	Denmark Andreas Christensen
-16	MF	Spanyol Fermín López
-17	MF	Spanyol Marc Casadó
-20	MF	Spanyol Dani Olmo
-21	MF	Belanda Frenkie de Jong
-23	DF	Prancis Jules Koundé
-24	DF	Spanyol Eric García
-25	GK	Polandia Wojciech Szczęsny
-—	GK	Spanyol Joan García
-—	MF	Spanyol Oriol Romeu
-—	FW	Swedia Roony Bardghji
--
-Update: 10 Agustus 2025
-Note:
-Jerman Marc-André ter Stegen (Captain)
-Uruguay Ronald Araújo (Vice-captain)
-Belanda Frenkie de Jong (3rd captain)
-Brasil Raphinha (4th captain)
-Inggris Marcus Rashford (Pinjaman dari Manchester United)
+Novel "3726 MDPL" karya Nurwina Sari menceritakan kisah cinta dan perjuangan seorang mahasiswa kehutanan bernama Rangga Raja dalam mengejar cintanya pada Andini Hangura, yang berlatar belakang pendakian Gunung Rinjani. Novel ini tidak hanya tentang kisah cinta, tetapi juga tentang perjalanan emosional, pencarian jati diri, dan menghadapi tantangan hidup. 
 
-La Liga 2025–26
+
+Ringkasan Cerita:
+Latar Belakang:
+Novel ini berlatar belakang dunia kampus, khususnya Fakultas Kehutanan, dan pendakian Gunung Rinjani yang memiliki ketinggian 3726 meter di atas permukaan laut. 
