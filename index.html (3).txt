@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Website Keren dengan Gambar</title>
+<style>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Arial, sans-serif;
+}
+body {
+background: linear-gradient(135deg, #6a11cb, #2575fc);
+color: white;
+text-align: center;
+padding: 20px;
+}
+header {
+padding: 30px 0;
+animation: fadeIn 1s ease-in-out;
+}
+header img {
+max-width: 200px;
+border-radius: 50%;
+margin-bottom: 15px;
+box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+nav {
+margin: 20px 0;
+}
+nav a {
+color: white;
+text-decoration: none;
+margin: 0 15px;
+font-weight: bold;
+transition: 0.3s;
+}
+nav a:hover {
+color: yellow;
+}
+section {
+background: rgba(255, 255, 255, 0.1);
+margin: 20px auto;
+padding: 20px;
+border-radius: 15px;
+max-width: 800px;
+animation: slideUp 1s ease-in-out;
+}
+.galeri {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap: 15px;
+margin-top: 15px;
+}
+.galeri img {
+width: 100%;
+border-radius: 10px;
+transition: transform 0.3s;
+}
+.galeri img:hover {
+transform: scale(1.05);
+}
+footer {
+margin-top: 30px;
+font-size: 0.9rem;
+opacity: 0.7;
+}
+@keyframes fadeIn {
+from { opacity: 0; }
+to { opacity: 1; }
+}
+@keyframes slideUp {
+from { transform: translateY(50px); opacity: 0; }
+to { transform: translateY(0); opacity: 1; }
+}
+</style>
+</head>
+<body>
+<header>
+<img src="https://source.unsplash.com/200x200/?nature" alt="Foto Profil">
+<h1>Selamat Datang di Website Keren!</h1>
+<p>Menghadirkan desain elegan, gambar menarik, dan responsif</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Tentang</a>
+<a href="#">Galeri</a>
+<a href="#">Kontak</a>
+</nav>
+
+<section>
+<h2>Galeri Foto</h2>
+<p>Koleksi gambar yang indah untuk mempercantik tampilan website.</p>
+<div class="galeri">
+<img src="https://source.unsplash.com/400x300/?mountain" alt="Gunung">
+<img src="https://source.unsplash.com/400x300/?beach" alt="Pantai">
+<img src="https://source.unsplash.com/400x300/?forest" alt="Hutan">
+<img src="https://source.unsplash.com/400x300/?city" alt="Kota">
+</div>
+</section>
+
+<footer>
+&copy; 2025 Dibuat oleh Fauzan M.
+</footer>
+</body>
+</html>
