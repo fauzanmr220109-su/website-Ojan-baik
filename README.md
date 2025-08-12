@@ -1,38 +1,37 @@
-# web-animasi-
-Perfect
-Lagu Ed Sheeran ‧ 2017
+FC Barcelona 2025–26
+SquadJadwal & HasilKlasemen
+No	Posisi	Nama Pemain
+1	GK	Jerman Marc-André ter Stegen
+2	DF	Spanyol Pau Cubarsí
+3	DF	Spanyol Alejandro Balde
+4	DF	Uruguay Ronald Araújo
+6	MF	Spanyol Gavi
+7	FW	Spanyol Ferran Torres
+8	MF	Spanyol Pedri
+9	FW	Polandia Robert Lewandowski
+10	FW	Spanyol Lamine Yamal
+11	FW	Brasil Raphinha
+13	GK	Spanyol Iñaki Peña
+14	FW	Inggris Marcus Rashford
+No	Posisi	Nama Pemain
+15	DF	Denmark Andreas Christensen
+16	MF	Spanyol Fermín López
+17	MF	Spanyol Marc Casadó
+20	MF	Spanyol Dani Olmo
+21	MF	Belanda Frenkie de Jong
+23	DF	Prancis Jules Koundé
+24	DF	Spanyol Eric García
+25	GK	Polandia Wojciech Szczęsny
+—	GK	Spanyol Joan García
+—	MF	Spanyol Oriol Romeu
+—	FW	Swedia Roony Bardghji
+-
+Update: 10 Agustus 2025
+Note:
+Jerman Marc-André ter Stegen (Captain)
+Uruguay Ronald Araújo (Vice-captain)
+Belanda Frenkie de Jong (3rd captain)
+Brasil Raphinha (4th captain)
+Inggris Marcus Rashford (Pinjaman dari Manchester United)
 
-Informasi Umum
-Lirik
-Rekaman Lainnya
-I found a love for me
-Oh, darling, just dive right in and follow my lead
-Well, I found a girl, beautiful and sweet
-Oh, I never knew you were the someone waitin' for me
-'Cause we were just kids when we fell in love, not knowin' what it was
-I will not give you up this time
-Oh, darling, just kiss me slow, your heart is all I own
-And in your eyes, you're holding mine
-Baby, I'm dancin' in the dark with you between my arms
-Barefoot on the grass while listenin' to our favourite song
-When you said you looked a mess, I whispered underneath my breath
-But you heard it, "Darling, you look perfect tonight"
-Well, I found a woman, stronger than anyone I know
-She shares my dreams, I hope that someday, I'll share her home
-I found a love to carry more than just my secrets
-To carry love, to carry children of our own
-We are still kids, but we're so in love, fightin' against all odds
-I know we'll be alright this time
-Darling, just hold my hand, be my girl, I'll be your man
-I see my future in your eyes
-Oh, baby, I'm dancin' in the dark with you between my arms
-Barefoot on the grass while listenin' to our favourite song
-When I saw you in that dress, lookin' so beautiful
-I don't deserve this, darling, you look perfect tonight
-No, no, no
-Mm, oh
-Baby, I'm dancin' in the dark with you between my arms
-Barefoot on the grass, oh, listenin' to our favourite song
-I have faith in what I see, now I know I have met
-An angel in person, and she looks perfect
-Though I don't deserve this, you look perfect tonight
+La Liga 2025–26
