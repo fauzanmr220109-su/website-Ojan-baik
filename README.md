@@ -7,3 +7,19 @@ Novel "3726 MDPL" karya Nurwina Sari menceritakan kisah cinta dan perjuangan seo
 Ringkasan Cerita:
 Latar Belakang:
 Novel ini berlatar belakang dunia kampus, khususnya Fakultas Kehutanan, dan pendakian Gunung Rinjani yang memiliki ketinggian 3726 meter di atas permukaan laut. 
+
+
+Tokoh Utama:
+Rangga Raja: Seorang mahasiswa populer dan karismatik, ketua OSPEK, dan jatuh cinta pada Andini. 
+Andini Hangura: Mahasiswi yang bercita-cita mendaki Gunung Rinjani. 
+
+
+Alur Cerita:
+Rangga berjuang untuk mendapatkan hati Andini, dan pendakian Gunung Rinjani menjadi simbol perjuangan mereka. 
+
+
+Tema:
+Novel ini mengangkat tema cinta, perjuangan, persahabatan, serta pentingnya kesabaran dan pengorbanan dalam hubungan.
+
+
+Pesan Moral: Novel ini juga menyoroti pentingnya kesabaran, pengorbanan, dan ketulusan dalam hubungan, serta bagaimana cinta bisa menjadi kekuatan untuk menghadapi rintangan. 
