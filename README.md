@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+athaya bimo lahir di mahardika razmir
 
 
 
